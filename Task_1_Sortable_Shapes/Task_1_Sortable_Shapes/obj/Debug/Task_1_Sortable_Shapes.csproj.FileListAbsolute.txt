@@ -1,0 +1,7 @@
+C:\Users\rezer\Desktop\Vector_Test\Task_1_Sortable_Shapes\Task_1_Sortable_Shapes\bin\Debug\Task_1_Sortable_Shapes.exe.config
+C:\Users\rezer\Desktop\Vector_Test\Task_1_Sortable_Shapes\Task_1_Sortable_Shapes\bin\Debug\Task_1_Sortable_Shapes.exe
+C:\Users\rezer\Desktop\Vector_Test\Task_1_Sortable_Shapes\Task_1_Sortable_Shapes\bin\Debug\Task_1_Sortable_Shapes.pdb
+C:\Users\rezer\Desktop\Vector_Test\Task_1_Sortable_Shapes\Task_1_Sortable_Shapes\obj\Debug\Task_1_Sortable_Shapes.csprojAssemblyReference.cache
+C:\Users\rezer\Desktop\Vector_Test\Task_1_Sortable_Shapes\Task_1_Sortable_Shapes\obj\Debug\Task_1_Sortable_Shapes.csproj.CoreCompileInputs.cache
+C:\Users\rezer\Desktop\Vector_Test\Task_1_Sortable_Shapes\Task_1_Sortable_Shapes\obj\Debug\Task_1_Sortable_Shapes.exe
+C:\Users\rezer\Desktop\Vector_Test\Task_1_Sortable_Shapes\Task_1_Sortable_Shapes\obj\Debug\Task_1_Sortable_Shapes.pdb

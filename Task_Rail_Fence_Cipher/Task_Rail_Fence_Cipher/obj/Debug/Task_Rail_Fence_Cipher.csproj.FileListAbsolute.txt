@@ -1,0 +1,7 @@
+C:\Users\rezer\Desktop\Vector_Test\Task_Rail_Fence_Cipher\Task_Rail_Fence_Cipher\bin\Debug\Task_Rail_Fence_Cipher.exe.config
+C:\Users\rezer\Desktop\Vector_Test\Task_Rail_Fence_Cipher\Task_Rail_Fence_Cipher\bin\Debug\Task_Rail_Fence_Cipher.exe
+C:\Users\rezer\Desktop\Vector_Test\Task_Rail_Fence_Cipher\Task_Rail_Fence_Cipher\bin\Debug\Task_Rail_Fence_Cipher.pdb
+C:\Users\rezer\Desktop\Vector_Test\Task_Rail_Fence_Cipher\Task_Rail_Fence_Cipher\obj\Debug\Task_Rail_Fence_Cipher.csprojAssemblyReference.cache
+C:\Users\rezer\Desktop\Vector_Test\Task_Rail_Fence_Cipher\Task_Rail_Fence_Cipher\obj\Debug\Task_Rail_Fence_Cipher.csproj.CoreCompileInputs.cache
+C:\Users\rezer\Desktop\Vector_Test\Task_Rail_Fence_Cipher\Task_Rail_Fence_Cipher\obj\Debug\Task_Rail_Fence_Cipher.exe
+C:\Users\rezer\Desktop\Vector_Test\Task_Rail_Fence_Cipher\Task_Rail_Fence_Cipher\obj\Debug\Task_Rail_Fence_Cipher.pdb
